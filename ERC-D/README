@@ -1,0 +1,26 @@
+# ERC-D — Deterministic Boundary
+
+## Description
+
+This module introduces a minimal deterministic model demonstrating that a system may lose recoverability without losing access to its state space.
+
+## Key Result
+
+As internal constraint increases:
+
+- The recovered state remains part of the system
+- But becomes dynamically inaccessible
+
+## Contents
+
+- `ERC-D_deterministic_boundary.pdf` — paper
+- `ERC_D_model.ipynb` — simulation
+- `figures/` — supporting figures
+
+## Interpretation
+
+The model suggests that failure may arise when recovery processes cannot keep up with system demand within finite time.
+
+## Status
+
+Minimal model. Intended as a falsifiable starting point.
