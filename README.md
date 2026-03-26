@@ -1,4 +1,5 @@
 # ERC Recoverability Model
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19240820.svg)](https://doi.org/10.5281/zenodo.19240820)
 
 Minimal, falsifiable models of recoverability boundaries in dynamical systems.
 
