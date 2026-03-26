@@ -1,0 +1,28 @@
+# ERC-S — Stochastic Extension
+
+## Description
+
+This module extends the deterministic model by introducing stochasticity.
+
+## Goal
+
+Test whether the recoverability boundary persists under noise and variability.
+
+## Key Questions
+
+- Does return probability decrease near the boundary?
+- Does noise accelerate loss of recoverability?
+
+## Contents
+
+- `ERC-S_stochastic_extension.pdf`
+- `ERC-S_stochastic.ipynb`
+- `figures/`
+
+## Interpretation
+
+Suggests that recoverability is not only structural, but also probabilistic under real conditions.
+
+## Status
+
+Extension of ERC-D. Still minimal and falsifiable.
